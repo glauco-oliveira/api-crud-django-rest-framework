@@ -7,7 +7,7 @@
 - Django REST Framework
 - Django Rest Auth
 
-## Installation
+## Instalação
 ```
 	pip install django
 	pip install djangorestframework
